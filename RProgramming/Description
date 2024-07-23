@@ -1,0 +1,18 @@
+The goal of these R programmes is to analyze the characteristics of the 
+most streamed songs on Spotify in 2023. By examining various attributes 
+of these songs, such as beats per minute (BPM), danceability, acousticness, 
+appearance in Apple charts, and the key they are in, the study aims to 
+identify patterns and relationships that might explain their popularity.
+
+We expect to find significant relationships between different musical 
+attributes and the popularity of songs, measured by the number of streams. 
+Specifically, we anticipate that the average BPM of popular songs might be 
+higher than a certain threshold.
+
+Additionally, there might be a correlation between the danceability and 
+acousticness of songs. We also hypothesize that the appearance of a song 
+in the Apple charts could be a predictor of the number of streams it receives.
+
+Finally, we expect that the key of a song might influence its average 
+number of streams. This analysis could provide valuable insights into 
+what makes a song popular on a major streaming platform like Spotify.
